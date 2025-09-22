@@ -54,10 +54,11 @@ END
 ```
 OUTPUT
 <img width="1920" height="1080" alt="Screenshot 2025-09-22 182721" src="https://github.com/user-attachments/assets/0d8d6700-cedb-4c6a-bd59-49ec93ee75c9" />
-<img width="898" height="413" alt="Screenshot 2025-09-22 183122" src="https://github.com/user-attachments/assets/fb0151be-2357-4a19-afa2-207724f32bec" />
 ---
 MANUAL CALCULATIONS
 ![mpmc](https://github.com/user-attachments/assets/8d36850a-ee0a-4018-b917-9ebd039cf534)
+<img width="1155" height="428" alt="Screenshot 2025-09-22 182721" src="https://github.com/user-attachments/assets/33699b92-f6ac-43ff-af9d-b9c51a0337f2" />
+
 
 RESULT
 
