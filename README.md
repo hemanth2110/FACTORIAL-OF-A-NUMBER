@@ -57,8 +57,7 @@ OUTPUT
 <img width="898" height="413" alt="Screenshot 2025-09-22 183122" src="https://github.com/user-attachments/assets/fb0151be-2357-4a19-afa2-207724f32bec" />
 ---
 MANUAL CALCULATIONS
-
----
+![mpmc](https://github.com/user-attachments/assets/8d36850a-ee0a-4018-b917-9ebd039cf534)
 
 RESULT
 
